@@ -1,0 +1,32 @@
+# Virtual environment
+myenv/
+venv/
+env/
+.env
+
+# Gradio flagged data
+.gradio/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Database files
+*.db
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
